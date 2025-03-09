@@ -1,21 +1,16 @@
-<<<<<<< HEAD
-# Screen1
-CIS Task . Screen about fav food .
-=======
-# screen1_cis
+# Recipe Screen README 💫  
 
-A new Flutter project.
+## Overview  
+A clean and simple **Egyptian Macarona Bechamel** recipe screen featuring:  
+- A delicious dish image 🍽️  
+- A brief description 📖  
+- Step-by-step cooking visuals 📷  
 
-## Getting Started
+## UI Preview  
+![Recipe Screen](lib/images/UI.png)  
 
-This project is a starting point for a Flutter application.
+## How to Use  
+1. Read the **About** section.  
+2. Follow the **Instructions** images.  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 14428c5 (Initial commit)
+Quick, easy, and elegant! ✨
