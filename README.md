@@ -1,4 +1,4 @@
-# Recipe Screen README 💫  
+# Recipe Screen  💫  
 
 ## Overview  
 A clean and simple **Egyptian Macarona Bechamel** recipe screen featuring:  
